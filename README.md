@@ -24,8 +24,6 @@ To run tests locally, in your base directory execute ./run-tests.sh
 Access the application at http://localhost:8000
 Login credentials have been shared with you via email
 
-Success
-
 
 ## Models description
 The application uses 6 models
